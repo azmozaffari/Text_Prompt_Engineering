@@ -1,4 +1,4 @@
-# Text_Prompt_Engineering
+# Prompt_Engineering
 
 Flan-T5 is an Encoder-Decoder model that is fine-tunied using prompt instruction.
 
